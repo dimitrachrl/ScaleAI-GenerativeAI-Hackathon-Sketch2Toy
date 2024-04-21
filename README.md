@@ -4,7 +4,7 @@ Sketch2Toy is a GenAI web app that allows users to turn sketches into 3D toys. T
 
 ## Demo 
 
-To use Sketch2Toy,please visit [Sketch2Text](https://your-sketch2text-website-url.com](https://sketch2play-47148.bubbleapps.io/version-test?debug_mode=true) and follow the on-screen instructions.
+To use Sketch2Toy,please visit [Sketch2Text](https://sketch2play-47148.bubbleapps.io/version-test?debug_mode=true) and follow the on-screen instructions.
 
 ## Purpose
 
